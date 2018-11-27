@@ -14,3 +14,18 @@ h1{
 	
 	
 }
+@media (max-width: 780px) {
+	h1{
+		color: aqua
+	}
+}
+
+@media (max-width: 400px) {
+	h1{
+		color:#DF1938;
+	}
+}
+
+ts{
+	
+}
