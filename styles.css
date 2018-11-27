@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+	color: #7D6EDB;
+	font: oblique;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 60px;
+	font-weight: 700;
+	text-align: center;
+	text-rendering: geometricPrecision;
+	text-decoration-style: dotted;
+	text-decoration-color: aliceblue;
+	
+	
+}
